@@ -1,0 +1,9 @@
+{
+  "source": "leaderboard",
+  "categories": [
+    "technology",
+    "business"
+  ],
+  "maxPerCategory": 10,
+  "maxItems": 20
+}
