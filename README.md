@@ -188,8 +188,8 @@ Open an issue with the input you used; layout changes at the source are fixed qu
 - [Bilibili Anime Catalog, Rankings & Calendar](https://github.com/getdatagrit/bilibili-anime-series-tracker) - Bilibili anime, Chinese animation, film, documentary and TV series: filterable catalog, Top 100 rankings, release calendar and season details with ratings and follower counts.
 - [Bluesky Community Finder: Starter Packs & Feeds](https://github.com/getdatagrit/bluesky-community-finder) - Find Bluesky starter packs, custom feeds and curated lists by topic, with join counts, feed likes and full member lists with follower counts.
 - [Medium Publication Finder: Subscribers & Activity](https://github.com/getdatagrit/medium-publication-finder) - Find Medium publications by keyword and score each one: subscribers, posting cadence, claps per post, paywalled share and top authors.
+- [Telegram Channel Analytics: Growth and Reach](https://github.com/getdatagrit/telegram-channel-growth-analytics) - One row per public Telegram channel: subscribers and growth since your last run, median views, view rate, posting cadence, reactions and forward sources.
 - [TED Contract Expiry Radar - Recompete Leads](https://github.com/getdatagrit/ted-contract-expiry-radar) - Find EU public contracts approaching expiry from TED award notices: incumbent, buyer, value, end date and renewal options.
-- [UK Contract Expiry Radar - Recompete Leads](https://github.com/getdatagrit/uk-contract-expiry-radar) - UK public contracts ending soon with incumbent supplier, buyer, value and contact - recompete leads from Contracts Finder award notices.
 
 All Actors: [https://getdatagrit.github.io/](https://getdatagrit.github.io/) · [Apify Store](https://apify.com/datagrit)
 
